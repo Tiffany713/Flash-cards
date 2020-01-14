@@ -1,0 +1,31 @@
+#java-hidden {
+  display: none;
+}
+.java-click{
+  cursor: pointer;
+  color: #0088cc;
+}
+.java-click:hover {
+  text-decoration: underline;
+}
+#oper-hidden {
+  display: none;
+}
+.oper-click{
+  cursor: pointer;
+  color: #0088cc;
+}
+.oper-click:hover {
+  text-decoration: underline;
+}
+
+#vari-hidden {
+  display: none;
+}
+.vari-click {
+  cursor: pointer;
+  color: #0088cc;
+}
+.vari-click:hover {
+  text-decoration: underline;
+}
